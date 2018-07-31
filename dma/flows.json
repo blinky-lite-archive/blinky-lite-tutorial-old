@@ -122,17 +122,10 @@
         "birthPayload": ""
     },
     {
-        "id": "5c27d05d.e787b",
-        "type": "ui_tab",
-        "z": "",
-        "name": "Blinky-Lite-Tutorial",
-        "icon": "dashboard"
-    },
-    {
         "id": "a617aefc.4918d",
         "type": "arduino-board",
         "z": "",
-        "device": "/dev/ttyACM3"
+        "device": "/dev/ttyACM0"
     },
     {
         "id": "262b6cae.fe0b94",
